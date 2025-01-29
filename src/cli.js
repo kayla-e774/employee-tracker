@@ -29,6 +29,8 @@ class Cli {
             }
             else {
                 this.exit = true;
+                pool.end();
+                process.exit();
             }
 
             if(!this.exit) {
