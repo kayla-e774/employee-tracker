@@ -4,11 +4,6 @@ import Cli from './cli.js'
 
 await connectToDb();
 
-const sql = `SELECT * FROM department`;
-const result = await pool.query(sql);
-
-console.table(result.rows);
-
 const cli = new Cli();
 cli.performActions();
 
