@@ -53,6 +53,10 @@ DB_PASSWORD=<your password here>
 ```
 ## Usage:
 - Watch this demo:  
+
+https://github.com/user-attachments/assets/9097ecf2-0d76-429b-86e0-a3fee0d1604b
+
+
   
 [Demo video - google drive](https://drive.google.com/file/d/1SY2eFp61HkGxVUnDIaQdwOREa-nnFK-X/view?usp=sharing)
 
